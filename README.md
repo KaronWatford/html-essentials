@@ -1,4 +1,4 @@
-# Welcome to Html Essentials Course
+# Welcome to HTML Essentials Course
 
 ## Terms
 
